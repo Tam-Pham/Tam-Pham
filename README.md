@@ -2,6 +2,7 @@
 
 I'm currently a Psychology Research Assistant at Clinical Brain Lab (NTU), Singapore ✨ 👩‍🔬 
 
+------------------------
 ### About me
 
 I love tearing my hair out everyday trying to recruit participants and re-assure them that wearing a cap full of gel 🧠 and being hooked up with wires 💓 is the coolest thing ever 😁😁😁 I also have strong interests in statistics and neurophysiological signal processing and I'm now spending most of my days contributing to one of the most awesome open-source packages on :octocat: -  [**NeuroKit2**](https://github.com/neuropsychology/NeuroKit).
